@@ -77,7 +77,8 @@ Here's a more detailed breakdown:
 
 ####    Randomized Algorithms:
 
-    These algorithms incorporate randomness into their logic to find approximate solutions or improve performance.
+    These algorithms incorporate randomness into their logic to find approximate solutions 
+    or improve performance.
 
 ## Other Important Categories:
 
