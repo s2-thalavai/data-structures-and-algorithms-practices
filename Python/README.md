@@ -2,7 +2,8 @@
 
 ## Running Python Files in the Terminal
 
-To run a Python script from the terminal, you need to use the Python interpreter. 
+To run a Python script from the terminal, you need to use the Python interpreter.
+ 
 Open a terminal and navigate to the directory where your Python file is located. 
 
 Then, type the following command:
