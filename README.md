@@ -8,6 +8,15 @@
 
 ![alt text](image.png)
 
+
+Modern programming languages utilize various data structures for organizing and storing data efficiently. 
+
+These structures, such as arrays, linked lists, stacks, queues, trees, and graphs, are fundamental 
+for developing effective algorithms. 
+
+Languages like Python, C++, and Java offer built-in data structures, simplifying their use in programming. 
+
+
 ## Most common types of data structure
 
     1. Arrays
