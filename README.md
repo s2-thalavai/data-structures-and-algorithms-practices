@@ -20,13 +20,36 @@ Languages like Python, C++, and Java offer built-in data structures, simplifying
 ## Most common types of data structure
 
     1. Arrays
+    
+        Ordered collections of elements, accessed by index.
+
     2. Linked lists
+        
+        Collections of nodes, each containing data and a pointer to the next node.
+
     3. Stacks
+
+        Last-in, first-out (LIFO) data structures.
+
     4. Queues
+
+        First-in, first-out (FIFO) data structures.
+
     5. Hash tables
+
+        stores key-value pairs and uses a hash function to map keys to indices in an array
+
     6. Trees
+
+        Hierarchical data structures with nodes and edges.
+
     7. Heaps
+
+        tree-based data structure in which all the nodes of the tree are in a specific order
+
     8. Graphs
+
+        Networks of nodes and edges representing relationships. 
 
 
 
