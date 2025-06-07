@@ -1,19 +1,18 @@
 # data-structures-and-algorithms-practices
 
-## Roadmap
+# Roadmap
 
 ![alt text](datastructures-and-algorithms.jpg)
 
-## Data Structures:
-
+# Data Structures:
 
 ![alt text](image.png)
 
-## Algorithms
+# Algorithms
 
     Algorithms are classified in various ways, broadly based on their purpose, strategy, or approach to problem-solving. 
 
-### Algorithm Analysis
+## Algorithm Analysis
 
     The design of an algorithm involves choosing appropriate data structures and algorithms to solve a specific problem efficiently.
 
@@ -31,15 +30,18 @@ Here's a more detailed breakdown:
 
     Searching Algorithms:
 
-        These algorithms are designed to locate specific data within a data structure. Examples include linear search, binary search, and graph search algorithms.
+        These algorithms are designed to locate specific data within a data structure. 
+        Examples include linear search, binary search, and graph search algorithms.
 
     Sorting Algorithms:
 
-        These algorithms arrange data in a specific order (ascending or descending). Examples include bubble sort, insertion sort, merge sort, and quicksort. 
+        These algorithms arrange data in a specific order (ascending or descending). 
+        Examples include bubble sort, insertion sort, merge sort, and quicksort. 
 
     Graph Algorithms:
 
-        These algorithms are used to solve problems related to graphs, such as finding the shortest path between nodes or detecting cycles. 
+        These algorithms are used to solve problems related to graphs, 
+        such as finding the shortest path between nodes or detecting cycles. 
 
 ## By Problem-Solving Strategy:
 
@@ -53,11 +55,13 @@ Here's a more detailed breakdown:
 
     Divide and Conquer Algorithms:
 
-        These algorithms break a problem down into smaller subproblems, solve them recursively, and combine the solutions to solve the original problem. 
+        These algorithms break a problem down into smaller subproblems, solve them recursively, 
+        and combine the solutions to solve the original problem. 
 
     Dynamic Programming Algorithms:
 
-        These algorithms break a problem down into overlapping subproblems, solve each subproblem once, and store the solutions to avoid recomputation. 
+        These algorithms break a problem down into overlapping subproblems, solve each subproblem once, 
+        and store the solutions to avoid recomputation. 
 
     Recursive Algorithms:
 
@@ -65,7 +69,8 @@ Here's a more detailed breakdown:
 
     Backtracking Algorithms:
 
-        These algorithms explore possible solutions by building them step-by-step and backtracking when a path is determined to be incorrect. 
+        These algorithms explore possible solutions by building them step-by-step and backtracking 
+        when a path is determined to be incorrect. 
 
     Randomized Algorithms:
 
@@ -81,4 +86,5 @@ Here's a more detailed breakdown:
 
     Deterministic vs. Non-deterministic: 
 
-        Deterministic algorithms always produce the same output for a given input, while non-deterministic algorithms may produce different outputs.
+        Deterministic algorithms always produce the same output for a given input, 
+        while non-deterministic algorithms may produce different outputs.
