@@ -30,18 +30,18 @@ Here's a more detailed breakdown:
 
 ####    Searching Algorithms:
 
-            These algorithms are designed to locate specific data within a data structure. 
-            Examples include linear search, binary search, and graph search algorithms.
+        These algorithms are designed to locate specific data within a data structure. 
+        Examples include linear search, binary search, and graph search algorithms.
 
 ####    Sorting Algorithms:
 
-            These algorithms arrange data in a specific order (ascending or descending). 
-            Examples include bubble sort, insertion sort, merge sort, and quicksort. 
+        These algorithms arrange data in a specific order (ascending or descending). 
+        Examples include bubble sort, insertion sort, merge sort, and quicksort. 
 
 ####    Graph Algorithms:
 
-            These algorithms are used to solve problems related to graphs, 
-            such as finding the shortest path between nodes or detecting cycles. 
+        These algorithms are used to solve problems related to graphs, 
+        such as finding the shortest path between nodes or detecting cycles. 
 
 ## By Problem-Solving Strategy:
 
