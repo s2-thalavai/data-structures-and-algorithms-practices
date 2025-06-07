@@ -28,63 +28,66 @@ Here's a more detailed breakdown:
 
 ## By Purpose/Use Case:
 
-    Searching Algorithms:
+####    Searching Algorithms:
 
-        These algorithms are designed to locate specific data within a data structure. 
-        Examples include linear search, binary search, and graph search algorithms.
+            These algorithms are designed to locate specific data within a data structure. 
+            Examples include linear search, binary search, and graph search algorithms.
 
-    Sorting Algorithms:
+####    Sorting Algorithms:
 
-        These algorithms arrange data in a specific order (ascending or descending). 
-        Examples include bubble sort, insertion sort, merge sort, and quicksort. 
+            These algorithms arrange data in a specific order (ascending or descending). 
+            Examples include bubble sort, insertion sort, merge sort, and quicksort. 
 
-    Graph Algorithms:
+####    Graph Algorithms:
 
-        These algorithms are used to solve problems related to graphs, 
-        such as finding the shortest path between nodes or detecting cycles. 
+            These algorithms are used to solve problems related to graphs, 
+            such as finding the shortest path between nodes or detecting cycles. 
 
 ## By Problem-Solving Strategy:
 
-    Brute Force Algorithms:
+####    Brute Force Algorithms:
 
         These algorithms exhaustively try all possible solutions to a problem until the correct one is found. 
 
-    Greedy Algorithms:
+####    Greedy Algorithms:
 
         These algorithms make locally optimal choices at each step, hoping to find a global optimal solution. 
 
-    Divide and Conquer Algorithms:
+####    Divide and Conquer Algorithms:
 
         These algorithms break a problem down into smaller subproblems, solve them recursively, 
         and combine the solutions to solve the original problem. 
 
-    Dynamic Programming Algorithms:
+####    Dynamic Programming Algorithms:
 
         These algorithms break a problem down into overlapping subproblems, solve each subproblem once, 
         and store the solutions to avoid recomputation. 
 
-    Recursive Algorithms:
+####    Recursive Algorithms:
 
         These algorithms solve a problem by calling themselves with smaller inputs until a base case is reached.
 
-    Backtracking Algorithms:
+####    Backtracking Algorithms:
 
         These algorithms explore possible solutions by building them step-by-step and backtracking 
         when a path is determined to be incorrect. 
 
-    Randomized Algorithms:
+####    Randomized Algorithms:
 
         These algorithms incorporate randomness into their logic to find approximate solutions or improve performance. 
 
 
 ## Other Important Categories:
 
-    Hashing Algorithms: 
+####    Hashing Algorithms: 
 
         These algorithms convert data into a fixed-size value, often for fast lookups or data comparisons. 
-        Machine Learning Algorithms: These algorithms learn from data to make predictions or decisions. 
+        
+####    Machine Learning Algorithms: 
 
-    Deterministic vs. Non-deterministic: 
+        These algorithms learn from data to make predictions or decisions. 
+
+####    Deterministic vs. Non-deterministic: 
 
         Deterministic algorithms always produce the same output for a given input, 
         while non-deterministic algorithms may produce different outputs.
