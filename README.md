@@ -47,11 +47,13 @@ Here's a more detailed breakdown:
 
 ####    Brute Force Algorithms:
 
-    These algorithms exhaustively try all possible solutions to a problem until the correct one is found.
+    These algorithms exhaustively try all possible solutions to a problem until 
+    the correct one is found.
     
 ####    Greedy Algorithms:
 
-    These algorithms make locally optimal choices at each step, hoping to find a global optimal solution. 
+    These algorithms make locally optimal choices at each step, hoping to find a 
+    global optimal solution. 
 
 ####    Divide and Conquer Algorithms:
 
@@ -65,7 +67,8 @@ Here's a more detailed breakdown:
 
 ####    Recursive Algorithms:
 
-    These algorithms solve a problem by calling themselves with smaller inputs until a base case is reached.
+    These algorithms solve a problem by calling themselves with smaller inputs 
+    until a base case is reached.
 
 ####    Backtracking Algorithms:
 
@@ -80,7 +83,8 @@ Here's a more detailed breakdown:
 
 ####    Hashing Algorithms: 
 
-    These algorithms convert data into a fixed-size value, often for fast lookups or data comparisons. 
+    These algorithms convert data into a fixed-size value, often for fast lookups 
+    or data comparisons. 
         
 ####    Machine Learning Algorithms: 
 
