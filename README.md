@@ -47,8 +47,8 @@ Here's a more detailed breakdown:
 
 ####    Brute Force Algorithms:
 
-    These algorithms exhaustively try all possible solutions to a problem until the correct one is found. 
-
+    These algorithms exhaustively try all possible solutions to a problem until the correct one is found.
+    
 ####    Greedy Algorithms:
 
     These algorithms make locally optimal choices at each step, hoping to find a global optimal solution. 
@@ -74,8 +74,7 @@ Here's a more detailed breakdown:
 
 ####    Randomized Algorithms:
 
-    These algorithms incorporate randomness into their logic to find approximate solutions or improve performance. 
-
+    These algorithms incorporate randomness into their logic to find approximate solutions or improve performance.
 
 ## Other Important Categories:
 
