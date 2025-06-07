@@ -7,7 +7,7 @@ Use a text editor to create a file with a .java extension (e.g., MyProgram.java)
 Write your Java code in this file. For example:
 
 
-    package myJavaProgram.Source;
+    package myJavaPackage.core;
 
     public class HelloWorld {
         public static void main(String[] args) {
