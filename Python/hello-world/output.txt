@@ -1,0 +1,15 @@
+----------EXEC STARTS----------
+Hello, World!
+2 + 5 =  7
+Welcome to Python!
+----------EXEC ENDS----------
+----------EXEC STARTS----------
+Hello, World!
+2 + 5 =  7
+Welcome to Python!
+----------EXEC ENDS----------
+----------EXEC STARTS----------
+Hello, World!
+2 + 5 =  7
+Welcome to Python!
+----------EXEC ENDS----------
