@@ -9,6 +9,19 @@
 
 ![alt text](image.png)
 
+## Most common types of data structure
+
+    1. Arrays
+    2. Linked lists
+    3. Stacks
+    4. Queues
+    5. Hash tables
+    6. Trees
+    7. Heaps
+    8. Graphs
+
+
+
 ## Algorithms
 
     Algorithms are classified in various ways, broadly based on their purpose, strategy, or approach to problem-solving. 
@@ -29,7 +42,7 @@ Here's a more detailed breakdown:
 
 ## By Purpose/Use Case:
 
-    Searching Algorithms:
+### Searching Algorithms:
 
         These algorithms are designed to locate specific data within a data structure. Examples include linear search, binary search, and graph search algorithms.
 
@@ -77,7 +90,10 @@ Here's a more detailed breakdown:
     Hashing Algorithms: 
 
         These algorithms convert data into a fixed-size value, often for fast lookups or data comparisons. 
-        Machine Learning Algorithms: These algorithms learn from data to make predictions or decisions. 
+
+    Machine Learning Algorithms: 
+    
+        These algorithms learn from data to make predictions or decisions. 
 
     Deterministic vs. Non-deterministic: 
 
