@@ -6,12 +6,17 @@
 
 # Data Structures:
 
+A data structure is a specific method to store and organize data in a computer to be easily 
+used to efficiently perform operations on it.
+
+When data is unstructured, it is not organized or doesn’t have a defined data model.
+
 Modern programming languages utilize various data structures for organizing and storing data efficiently. 
 
 These structures, such as arrays, linked lists, stacks, queues, trees, and graphs, are fundamental 
 for developing effective algorithms. 
 
-Languages like Python, C++, and Java offer built-in data structures, simplifying their use in programming. 
+Languages like Python, Javascript, and Java offer built-in data structures, simplifying their use in programming. 
 
 
 ![alt text](image.png)
